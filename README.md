@@ -81,3 +81,8 @@ This script does not install, upgrade, or remove packages. It refreshes APT pack
 ## Project Status
 Working prototype tested on Ubuntu 26.04.1 LTS running under Windows Subsystem for Linux (WSL). Daily cron scheduling has been configured in the development environment.
 
+## Project Output
+
+The screenshot below shows the Linux update alert script execution and the timestamped update-check logs.
+
+![Linux Update Alert Output](screenshots/linux-update-alert-output.png)
